@@ -1,0 +1,310 @@
+#banner{
+    height: 80px;
+    width: 1440px;
+    left: 0px;
+    top: 2px;
+    border-radius: 0px;
+    margin:0px;
+    margin-right:0px;
+    padding: 0px;
+    background: linear-gradient(270deg,#745ECE 0%, rgba(105,72,237,0.41) 47.4%, #5E63C8 82.29%);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    display:inline-flex;
+
+}
+#logo{
+    margin-left: 100px;
+    margin-top: 8px;
+    margin-bottom: 12px;
+    
+    height: 60px;
+    width: 100px;
+    border-radius: 2px;
+    display:inline;
+   
+}
+#searchBar{
+    height: 47px;
+    width: 836px;
+    margin-left: 248px;
+    margin-top: 20px;
+    border-radius: 0px;
+    background: #FFFFFF;
+    display:inline;
+
+}
+#searchField{
+    height: 30px;
+    width: 792px;
+    margin-left: 9px;
+    margin-top: 9px;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+    border-color: transparent;
+}
+#lupaBtn{
+    height: 47px;
+    width: 56px;
+    left: 1284px;
+    top: 20px;
+    border-radius: 0px;
+    background: #E5E5E5;
+    border: 1px solid #C6C2C2;
+
+}
+#favs{
+    height: 40px;
+width: 44px;
+margin-left: 35px;
+margin-top: 20px;
+border-radius: 0px;
+
+
+}
+body{
+    background-color: #E5E5E5;
+}
+#content{
+    margin-left: 100px;
+    margin-top: 77px;
+    width:1240px;
+    height:100px;
+}
+.element{
+    margin:0px;
+    padding:0px;
+    border: 1px solid rgba(0,0,0,0.15);
+    height: 221px;
+    background:#FFFFFF;
+}
+.productImg{
+    display:inline-block;
+    height: 180px;
+    width: 180px;
+    margin-left: 44px;
+    margin-top:-160px;
+    border-radius: 15px;
+}
+.info{
+    display:inline-block;
+}
+.line1{
+    width:100%;
+}
+.price{
+    display:inline-block;
+    height: 35px;
+    width: 150px;
+    margin-left: 124px;
+    margin-top: 30px;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.freeImg{
+    display:inline-block;
+    height: 20px;
+    width: 20px;
+    margin-left: 0px;
+    margin-top: 0px;
+    border-radius: 0px;
+}
+.city{
+    display:inline-block;
+    height: 35px;
+    width: 150px;
+    margin-left: 493px;
+    margin-top: 0px;
+    border-radius: 0px;
+    font-family: Lato;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.name{
+    height: 35px;
+    width: 500px;
+    margin-left: 124px;
+    margin-top: 75px;
+    border-radius: 0px;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;    
+}
+.categories{
+    height: 32px;
+width: 800px;
+
+left:99px;
+border-radius: nullpx;
+
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: justified;
+
+color: rgba(0, 0, 0, 0.67);
+}
+#detail{
+    margin-left: 99px;
+    margin-right:99px;
+    
+}
+.det-container{
+    height: 852px;
+width: 1240px;
+left: 100px;
+top: 158px;
+border-radius: 0px;
+border: 1px solid rgba(0, 0, 0, 0.15);
+
+background-color: #ffffff;
+}
+.img-description{
+    display: inline-block;
+    width:880px;
+}
+.imageDetail{
+    margin-top:54px;
+    margin-left:50px;
+    width: 563px;
+    height:520px;
+}
+h2{
+    height: 31px;
+width: 312px;
+margin-left: 50px;
+top: 755px;
+border-radius: nullpx;
+
+font-family: Lato;
+font-size: 28px;
+font-style: normal;
+font-weight: 400;
+line-height: 34px;
+letter-spacing: 0em;
+text-align: left;
+
+
+}
+.descrip{
+    height: 170px;
+width: 828px;
+margin-left: 50px;
+top: 809px;
+border-radius: nullpx;
+
+font-family: Lato;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0em;
+text-align: justified;
+
+
+
+
+}
+.detailInfo{
+    display: inline-block;
+
+    margin-top: 0px;
+    
+}
+.extraInfo{
+    height: 35px;
+width: 312px;
+margin-left: 0px;
+margin-top: 54px;
+border-radius: nullpx;
+font-family: Lato;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 17px;
+letter-spacing: 0em;
+text-align: left;
+}
+.detailName{
+    height: 31px;
+width: 312px;
+left: 978px;
+margin-top: 31px;
+border-radius: nullpx;
+font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: left;
+}
+.detailPrice{
+    height: 33px;
+width: 312px;
+left: 978px;
+margin-top: 120px;
+border-radius: nullpx;
+
+font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: left;
+}
+.buyBtn{
+    height: 51px;
+width: 312px;
+left: 978px;
+margin-top: 48px;
+border-radius: 20px;
+background: #C968CB;
+font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: center;
+color: white;
+}
+.favBtn{
+    background: #8C86D7;
+    height: 51px;
+    width: 312px;
+    left: 978px;
+    margin-top: 18px;
+    border-radius: 20px;
+    
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: white;
+
+}
